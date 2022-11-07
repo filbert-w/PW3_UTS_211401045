@@ -1,0 +1,24 @@
+#products {
+    padding-top: 20px;
+    padding-bottom: 50px;
+}
+
+/* warna card #ffc107 */
+.card {
+    background-color: #ffc107;
+}
+
+/* warna card menjadi #c99806 ketika di-hover */
+.card:hover {
+    background-color: #c99806;
+}
+
+/* tidak ada garis di bawah link */
+#products a {
+    text-decoration: none;
+}
+
+/* teks menjadi lebih tebal ketika di-hover */
+#products a:hover {
+    font-weight: 700;
+}
